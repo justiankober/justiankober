@@ -5,7 +5,7 @@
 I'm Justi and currently starting my webdev journey under the guidance of DCI. Python is my first language, explorig the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
 
 
-## More About Me:woman:
+## More About Me:men:
 
 :purple_heart: Kind people are my kinda people
 
@@ -34,11 +34,3 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. Py
 </p>
 
 
-## Latest Blog Posts📩
-<!-- BLOG-POST-LIST:START -->
-- [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
-- [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
-- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
-- [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
-- [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
-<!-- BLOG-POST-LIST:END -->
