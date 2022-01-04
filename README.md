@@ -27,7 +27,7 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI.
   
 
 - Contributing on: <a href="http://twitter.com/JustianKober">
-    <img src="https://img.shields.io/twitter/follow/PluckyPreciousJustianKober?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/JustianKober?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 
 
