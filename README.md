@@ -12,7 +12,7 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. :c
 
 :book: Beginner mindset (**open to learning**)
 
-:sparkles: Dreamer at heart (**i see the world as magical**)
+:sparkles: Dreamer at heart (**the world is magical**)
   
 :coffee: Fueled by coffee
   
