@@ -10,16 +10,18 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. :c
 
 :heart: Kind people are my kinda people
 
-:100: Radical for Jesus
+:book: Beginner mindset (**open to learning**)
 
-:star: Uniquely naive tho independent
+:sparkles: Dreamer at heart (**i see the world as magical**)
+  
+:coffee: Fueled by coffee
+  
+:chocolate_bar: Sucker for chocolate
+  
+:wine_glass: Wine is also fine
 
-:apple: Beginner mindset (**open to learning**)
 
-:sparkles: Child at heart (**i see the world as magical**)
-
-
->*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
+>*There is no way to happiness — happiness is the way.*
 
 
 ## Find me around the WWW🌎
