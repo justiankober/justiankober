@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
-I'm Justi and currently starting my webdev journey under the guidance of DCI. Python is my first language, explorig the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
+I'm Justi and currently starting my webdev journey under the guidance of DCI.
 
 
 ## More About Me:
