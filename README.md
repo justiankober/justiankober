@@ -5,7 +5,7 @@
 I'm Justi and currently starting my webdev journey under the guidance of DCI. Python is my first language, explorig the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
 
 
-## More About Me:men:
+## More About Me:
 
 :purple_heart: Kind people are my kinda people
 
