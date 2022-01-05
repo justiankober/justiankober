@@ -21,7 +21,7 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. :c
 :wine_glass: Wine is also fine
 
 
->*There is no way to happiness — happiness is the way.*
+>*The quality of your mind is the quality of your life.*
 
 
 ## Find me around the WWW🌎
