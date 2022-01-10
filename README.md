@@ -5,25 +5,6 @@
 
 I'm Justi and currently starting my webdev journey under the guidance of DCI. :computer:
 
-
-## More About Me:
-
-:heart: Kind people are my kinda people
-
-:book: Beginner mindset (**open to learning**)
-
-:sparkles: Dreamer at heart (**the world is magical**)
-  
-:coffee: Fueled by coffee
-  
-:chocolate_bar: Sucker for chocolate
-  
-:wine_glass: Wine is also fine
-
-
->*The quality of your mind is the quality of your life.*
-
-
 ## Find me around the WWW🌎
 
 <p align="center">
