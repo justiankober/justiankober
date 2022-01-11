@@ -9,7 +9,7 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. :c
 
 <p align="center">
   
-  - 📫 : Justian.Kober@icloud.com
+  - 📫  Justian.Kober@icloud.com
  
    <a href="http://twitter.com/JustianKober">
     <img src="https://img.shields.io/twitter/follow/JustianKober?label=Twitter&logo=twitter&style=for-the-badge" />
