@@ -5,7 +5,7 @@
 
 I'm Justi and currently starting my webdev journey under the guidance of DCI. :computer:
 
-## How to reach out to me🌎
+## How to reach out to me 🌎
 
 <p align="center">
   
