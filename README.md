@@ -10,8 +10,8 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. :c
 <p align="center">
   
   - 📫 How to reach me: Justian.Kober@icloud.com
-  - **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
-  - Contributing on: <a href="http://twitter.com/JustianKober">
+ 
+   <a href="http://twitter.com/JustianKober">
     <img src="https://img.shields.io/twitter/follow/JustianKober?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 
