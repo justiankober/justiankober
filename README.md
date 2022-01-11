@@ -14,7 +14,7 @@ I'm Justi and currently starting my webdev journey under the guidance of DCI. :c
    <a href="http://twitter.com/JustianKober">
     <img src="https://img.shields.io/twitter/follow/JustianKober?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-
+<a href="https://twitter.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
 
 </p>
 
